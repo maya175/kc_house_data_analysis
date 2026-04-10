@@ -7,7 +7,7 @@ library(patchwork)
 library(caret)
 
 # Load the data
-kc_house<-read.csv('C:/Users/65834/Desktop/School/DANA/Proj/kc_house_data.csv')
+kc_house<-read.csv('filepath/kc_house_data.csv')
 
 # Data Cleaning and Preprocessing
 ## Check for missing values
